@@ -48,7 +48,7 @@ React Redux and API
 
 ## 🚀 Live Demo <a name="live-demo"> </a>
 
-- [Live Demo](Will be available after final approval)
+> Check out the live demo for this project [here.](https://space-travellers-one.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
