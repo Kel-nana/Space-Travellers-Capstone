@@ -10,7 +10,7 @@ const DragonEntry = ({
 
   return (
     <>
-      <article className="rocket">
+      <article id="dragon_article" className="rocket ">
         <div className="image-container">
           <img className="rocket-img" src={img} alt="" />
         </div>
