@@ -308,3 +308,9 @@ td .btn-active {
 .profile-contents-wrap li:nth-child(odd) {
   background: linear-gradient(156deg, rgba(255, 255, 255, 0.062) 25%, rgba(27, 27, 26, 0.685) 85%);
 }
+
+
+#dragon_article {
+  width: 86vw;
+  height: 40vh;
+}
